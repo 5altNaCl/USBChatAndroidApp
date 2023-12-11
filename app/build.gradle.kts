@@ -71,4 +71,5 @@ dependencies {
     implementation(libs.dagger.hiltAndroid)
     kapt(libs.dagger.hiltAndroidCompiler)
     implementation(libs.androidx.hilt.hiltNavigationCompose)
+    implementation(libs.usbSerialForAndroid)
 }
